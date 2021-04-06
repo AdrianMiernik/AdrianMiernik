@@ -8,7 +8,6 @@
 <a>Website:</a>
 <a href="https://adrianmiernik.com/" target="blank"><img align="center" src="https://github.com/AdrianMiernik/AdrianMiernik/blob/main/Logo.png" alt="adrianmiernik" height="30" width="40" />:</a>
 </p>
-</hr>
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
