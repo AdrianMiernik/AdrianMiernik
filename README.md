@@ -1,4 +1,5 @@
 ## My name is Adrian Miernik and I'm a candidate for first Junior Java position! 👋
+<p></p>
 
 ## Connect with me:
 <p align="left">
@@ -7,8 +8,8 @@
 <a>Website:</a>
 <a href="https://adrianmiernik.com/" target="blank"><img align="center" src="https://github.com/AdrianMiernik/AdrianMiernik/blob/main/Logo.png" alt="adrianmiernik" height="30" width="40" />:</a>
 </p>
-<hr>
-<hr/>
+<p></p>
+
 ## Languages and Tools:
 <p align="left"> 
    <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
