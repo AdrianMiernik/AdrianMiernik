@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/adrian-miernik/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adrianmiernik" height="30" width="40" /></a>
 </p>
 <p align="left">
-<a href="https://adrianmiernik.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/wp/themes/project/version/file" alt="adrianmiernik" height="30" width="40" /></a>
+<a href="https://adrianmiernik.com/" target="blank"><img align="center" src="https://github.com/AdrianMiernik/AdrianMiernik/blob/main/Logo.png" alt="adrianmiernik" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
