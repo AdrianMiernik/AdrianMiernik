@@ -1,4 +1,4 @@
-<h1 align="left">My name is Adrian Miernik and I'm a candidate for first Junior Java position! 👋</h1>
+<h2 align="left">My name is Adrian Miernik and I'm a candidate for first Junior Java position! 👋</h2>
 </hr>
 <br/>
 <h3 align="left">Connect with me:</h3>
