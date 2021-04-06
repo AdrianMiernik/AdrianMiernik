@@ -1,10 +1,9 @@
 ### My name is Adrian Miernik and I'm a candidate for first Junior Java position! 👋
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">Linkedin:
-<a href="https://www.linkedin.com/in/adrian-miernik/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adrianmiernik" height="30" width="40" /></a></p>
-<p align="left">Website:
-<a href="https://adrianmiernik.com/" target="blank"><img align="center" src="https://github.com/AdrianMiernik/AdrianMiernik/blob/main/Logo.png" alt="adrianmiernik" height="30" width="40" /></a>
+<p align="left">
+<a href="https://www.linkedin.com/in/adrian-miernik/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adrianmiernik" height="30" width="40" />Linkedin:</a>
+<a href="https://adrianmiernik.com/" target="blank"><img align="center" src="https://github.com/AdrianMiernik/AdrianMiernik/blob/main/Logo.png" alt="adrianmiernik" height="30" width="40" />Website:</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
