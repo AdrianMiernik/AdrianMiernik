@@ -1,16 +1,17 @@
-## My name is Adrian Miernik and I'm a candidate for first Junior Java position! 👋
-<p></p>
-
-## Connect with me:
+<h1 align="left">My name is Adrian Miernik and I'm a candidate for first Junior Java position! 👋</h1>
+</hr>
+<br/>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a>Linkedin:</a>
 <a href="https://www.linkedin.com/in/adrian-miernik/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adrianmiernik" height="30" width="40" /></a>
 <a>Website:</a>
 <a href="https://adrianmiernik.com/" target="blank"><img align="center" src="https://github.com/AdrianMiernik/AdrianMiernik/blob/main/Logo.png" alt="adrianmiernik" height="30" width="40" />:</a>
 </p>
-<p></p>
+</hr>
+<br/>
 
-## Languages and Tools:
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
    <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
